@@ -17,31 +17,26 @@ Welcome to my GitHub profile! I am a Computer Science and Engineering faculty me
 
 ## 🚀 Featured Projects
 
-### 1. OS Page Replacement Lab
+### 🖥️ Operating Systems Page Replacement Visualizer
+An interactive teaching tool demonstrating three page replacement algorithms and comparing their page faults and hits.
 
-An interactive educational simulator for understanding FIFO, LRU, and Optimal page replacement algorithms.
+- **Algorithms:** FIFO, LRU, and Optimal
+- **Live Demo:** [Try the visualizer](https://gokulakrishnaans.github.io/CSE-teaching-resources/)
+- **Source Code:** [View on GitHub](https://github.com/gokulakrishnaans/CSE-teaching-resources)
 
-- Compare page faults and page hits.
-- Explore frame-by-frame memory states.
-- Experiment with reference strings and frame counts.
+### 🤖 RAG-Based Intelligent Academic Knowledge Assistant
+An academic project exploring Retrieval-Augmented Generation (RAG) to help students retrieve relevant information from course materials.
 
-🔗 [Launch the live simulator](https://gokulakrishnaans.github.io/CSE-teaching-resources/)
+- **Focus:** Academic question answering and knowledge retrieval
+- **Technology:** LangChain and RAG
+- **Status:** In Development
 
-🔗 [View the source repository](https://github.com/gokulakrishnaans/CSE-teaching-resources)
+### 📚 Computer Science Teaching Resources
+A collection of teaching resources, lab programs, and practical demonstrations designed to support Computer Science and Engineering education.
 
-### 2. RAG-Based Intelligent Academic Knowledge Assistant
+- **Repository:** [CSE Teaching Resources](https://github.com/gokulakrishnaans/CSE-teaching-resources)
 
-An academic AI project focused on retrieving relevant information from course materials and generating context-grounded answers.
-
-- Planned focus: academic document retrieval and question answering
-- Technologies under exploration: LangChain and Retrieval-Augmented Generation
-- Status: In development
-
-### 3. CSE Teaching Resources
-
-A growing collection of educational documentation, programming examples, and practical demonstrations for Computer Science and Engineering.
-
-🔗 [Explore teaching resources](https://github.com/gokulakrishnaans/CSE-teaching-resources)
+---
 
 ## 📚 Teaching & Learning
 
